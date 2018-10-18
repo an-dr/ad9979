@@ -4,4 +4,4 @@ Project to work with ADC ad9979. It was written to drive by ADC through Raspberr
 
 Includes:
 - Library to work with 3wire interface
-- Library to send command through 3 wire interface to ADC
+- Library to send init command through 3 wire interface to ADC
